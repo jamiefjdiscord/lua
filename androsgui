@@ -25,5 +25,9 @@ Main_:CreateButton("reviz admin v2", "None", "admin commands but, v2.", "", "", 
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/reviz."))()
 end)
 
+Main_:CreateButton("natural disaster survival", "None", "survival, gui.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/natural.lua"))()
+end)
+
 
 
