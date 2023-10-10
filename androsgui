@@ -29,5 +29,8 @@ Main_:CreateButton("natural disaster survival", "None", "survival, gui.", "", ""
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/natural.lua"))()
 end)
 
+Main_:CreateButton("owl hub", "None", "for shooter games!", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))()
+end)
 
 
