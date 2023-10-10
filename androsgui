@@ -37,3 +37,6 @@ Main_:CreateButton("pull a sword auto rebirth", "None", "tora hub.", "", "", "",
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0PullaSword"))()
 end)
 
+Main_:CreateButton("blade ball", "None", "op blade ball script.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/blade%20ball.lua"))()
+end)
