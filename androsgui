@@ -44,3 +44,7 @@ end)
 Main_:CreateButton("pull a sword auto win", "None", "op blade ball script.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://github.com/KhSaeed90/Roblox/raw/workspace/13827198708"))()
 end)
+
+Main_:CreateButton("build a boat for treasure", "None", "builds, a boat", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/Sr2nf07q"))()
+end)
