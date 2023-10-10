@@ -52,3 +52,7 @@ end)
 Main_:CreateButton("anime fighters simulator.", "None", "automates stuff", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Winnablez/Winnable/main/Loader"))()
 end)
+
+Main_:CreateButton("Blade Ball: Auto-Farm", "None", "automates stuff", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ThatSick/HighlightMM2/main/Main"))()
+end)
