@@ -48,3 +48,7 @@ end)
 Main_:CreateButton("build a boat for treasure", "None", "builds, a boat", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://pastebin.com/raw/Sr2nf07q"))()
 end)
+
+Main_:CreateButton("anime fighters simulator.", "None", "automates stuff", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Winnablez/Winnable/main/Loader"))()
+end)
