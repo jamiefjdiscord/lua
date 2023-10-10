@@ -1,0 +1,29 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/gui%20lib.lua"))()
+
+local Main_ = libary:CreateMain()
+
+
+local R15toR6 = true
+
+
+
+
+Main_:CreateButton("Walk On Walls", "None", "walk but on, walls.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/RY9cBbdG"))()
+end)
+
+Main_:CreateButton("bang", "None", "makes u fuck other people simple.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/bah"))()
+end)
+
+Main_:CreateButton("infinite yield", "None", "admin commands", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+end)
+
+
+Main_:CreateButton("reviz admin v2", "None", "admin commands but, v2.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/reviz."))()
+end)
+
+
+
