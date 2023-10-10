@@ -33,4 +33,7 @@ Main_:CreateButton("owl hub", "None", "for shooter games!", "", "", "", function
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))()
 end)
 
+Main_:CreateButton("pull a sword auto rebirth", "None", "tora hub.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0PullaSword"))()
+end)
 
