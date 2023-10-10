@@ -13,7 +13,7 @@ Main_:CreateButton("Walk On Walls", "None", "walk but on, walls.", "", "", "", f
 end)
 
 Main_:CreateButton("bang", "None", "makes u fuck other people simple.", "", "", "", function()
-	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/bah"))()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/bah"))()
 end)
 
 Main_:CreateButton("infinite yield", "None", "admin commands", "", "", "", function()
