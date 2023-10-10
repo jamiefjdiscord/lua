@@ -40,3 +40,7 @@ end)
 Main_:CreateButton("blade ball", "None", "op blade ball script.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/blade%20ball.lua"))()
 end)
+
+Main_:CreateButton("pull a sword auto win", "None", "op blade ball script.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://github.com/KhSaeed90/Roblox/raw/workspace/13827198708"))()
+end)
