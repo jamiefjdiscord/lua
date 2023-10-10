@@ -60,3 +60,8 @@ end)
 Main_:CreateButton("Tower of Hell", "None", "tower - of - hell. AHAHAHHH.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/EDGYCUNT231231/shiny-waffle/main/Obfusc1ated.txt"))()
 end)
+
+
+Main_:CreateButton("Trident Survival: Hitbox Expander", "None", "automates stuff.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/BigHacker123/loader/main/.lua"))()
+end)
