@@ -80,3 +80,7 @@ end)
 Main_:CreateButton("Car Dealership Tycoon: Auto Farm", "None", "gui for autofarm.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://astronomic.vercel.app"))()
 end) 
+
+Main_:CreateButton("Universal Speed Slider", "None", "With this universal script, you can change your own walk speed in game. Just write value in text box, and click set speed", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/DH4b3T5S"))()
+end) 
