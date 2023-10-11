@@ -72,4 +72,8 @@ end)
 
 Main_:CreateButton("Universal: Fps Unlocker", "None", "helps, ur fps.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/universal%20fps%20unlocker."))()
-end)
+end) 
+
+Main_:CreateButton("Universal: God Mode, Fly, Speed Up", "None", "gives, u health basically.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://freenote.biz/raw/aUGn2OzQdq"))()
+end) 
