@@ -83,4 +83,8 @@ end)
 
 Main_:CreateButton("Universal Speed Slider", "None", "With this universal script, you can change your own walk speed in game. Just write value in text box, and click set speed", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://pastebin.com/raw/DH4b3T5S"))()
-end) 
+end)
+
+Main_:CreateButton("Perfectus-Hub", "None", "A very good hub", "", "Don_RD", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/PerfectusMim/Perfectus-Hub/main/perfectus-hub"))()
+end)
