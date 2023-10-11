@@ -69,3 +69,7 @@ end)
 Main_:CreateButton("Universal: Hide Name, Fly & More", "None", "hides ur name n stuff.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://weinzspace.com/revamp.lua"))()
 end)
+
+Main_:CreateButton("Universal: Fps Unlocker", "None", "helps, ur fps.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/universal%20fps%20unlocker."))()
+end)
