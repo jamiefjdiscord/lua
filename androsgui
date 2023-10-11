@@ -77,3 +77,7 @@ end)
 Main_:CreateButton("Universal: God Mode, Fly, Speed Up", "None", "gives, u health basically.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://freenote.biz/raw/aUGn2OzQdq"))()
 end) 
+
+Main_:CreateButton("CHAOS: Kill Aura, Kill All, Fling All", "None", "op harked, gui.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/3aks6wJy"))()
+end) 
