@@ -1,18 +1,13 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/gui%20lib.lua"))()
 
 local Main_ = libary:CreateMain()
-
-
 local R15toR6 = true
 
-
-
-
-Main_:CreateButton("Walk On Walls", "None", "walk but on, walls.", "", "", "", function()
+Main_:CreateButton("Walk On Walls", "None", "walk but on, walls.", "jamiefj", "", "", function()
 	loadstring(game:HttpGetAsync("https://pastebin.com/raw/RY9cBbdG"))()
 end)
 
-Main_:CreateButton("bang", "None", "makes u fuck other people simple.", "", "", "", function()
+Main_:CreateButton("bang", "None", "makes u fuck other people simple.", "jamiefj", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/bah"))()
 end)
 
@@ -25,7 +20,7 @@ Main_:CreateButton("reviz admin v2", "None", "admin commands but, v2.", "", "", 
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/reviz."))()
 end)
 
-Main_:CreateButton("natural disaster survival", "None", "survival, gui.", "", "", "", function()
+Main_:CreateButton("natural disaster survival", "None", "survival, gui.", "jamiefj", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/natural.lua"))()
 end)
 
@@ -80,4 +75,8 @@ end)
 
 Main_:CreateButton("CHAOS: Kill Aura, Kill All, Fling All", "None", "op harked, gui.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://pastebin.com/raw/3aks6wJy"))()
+end) 
+
+Main_:CreateButton("Car Dealership Tycoon: Auto Farm", "None", "gui for autofarm.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://astronomic.vercel.app"))()
 end) 
