@@ -66,6 +66,6 @@ Main_:CreateButton("Trident Survival: Hitbox Expander", "None", "automates stuff
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/BigHacker123/loader/main/.lua"))()
 end)
 
-Main_:CreateButton("Universal: Hide Name, Fly & More", "None", "automates stuff.", "", "", "", function()
+Main_:CreateButton("Universal: Hide Name, Fly & More", "None", "hides ur name n stuff.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://weinzspace.com/revamp.lua"))()
 end)
