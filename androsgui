@@ -88,3 +88,27 @@ end)
 Main_:CreateButton("Perfectus-Hub", "None", "A very good hub", "", "Don_RD", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/PerfectusMim/Perfectus-Hub/main/perfectus-hub"))()
 end)
+
+Main_:CreateButton("KAT: Aimlock, Silent Aim, Fov", "None", "Aimlock is a feature that enhances the accuracy and precision of shooting in Roblox games. It allows players to automatically target their opponents, reducing the chances of missing a shot.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/FlmesCoding/SwirlHub/main/Loader.lua"))()
+end)
+
+Main_:CreateButton("Universal Calculator", "None", "This script is basic and universal, could be used in any game. Script can calculate all your tasks!", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/mQR4T40R"))()
+end)
+
+Main_:CreateButton("Blade Ball: Anti-Afk, Auto Parry & More", "None", "The Anti-Afk script is a tool that prevents players from being kicked out of the game due to inactivity.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/FlmesCoding/SwirlHub/main/Loader.lua"))()
+end)
+
+Main_:CreateButton("Tap Simulator X: Auto Tap", "None", "Auto Tap is a powerful script that automates tapping in Roblox games. This feature is perfect for players who want to quickly and efficiently collect resources, earn points, or complete tasks", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://github.com/KhSaeed90/Roblox/raw/workspace/7849447103"))()
+end)
+
+Main_:CreateButton("Ragdoll Engine: Anti Afk", "None", "The Anti Afk function is designed to prevent players from being kicked out of the game due to inactivity", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/enrabiaaa/UnslaggerHub/main/RagdollEngine.lua"))()
+end)
+
+Main_:CreateButton("Build A Boat For Treasure: Auto Farm", "None", "The auto farm gold script is a powerful feature for players in Roblox games. It allows players to automatically collect gold in the game without having to manually click on each gold source", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://astronomic.vercel.app"))()
+end)
