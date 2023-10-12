@@ -112,3 +112,7 @@ end)
 Main_:CreateButton("Build A Boat For Treasure: Auto Farm", "None", "The auto farm gold script is a powerful feature for players in Roblox games. It allows players to automatically collect gold in the game without having to manually click on each gold source", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://astronomic.vercel.app"))()
 end)
+
+Main_:CreateButton("Blade Ball: Auto Parry, Inf Freeze & More", "None", "In this script a lot of different functions. There are Best Auto Parry, Ruin game and Players Attach.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Eblan19/875578/main/dolbaeb9867"))()
+end)
