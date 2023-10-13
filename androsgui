@@ -131,3 +131,15 @@ end)
 Main_:CreateButton("Teamwork Puzzles 2", "None", "Ascend to new levels of mastery with the combined prowess of Automation, Auto Rebirth, and Teleport, propelling you towards achievements beyond imagination.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://pastebin.com/raw/v8NA36F4"))()
 end)
+
+Main_:CreateButton("Winnable Hub: 5+ Games", "None", "Script Hub for Roblox Games is a platform that offers cheat functions and more for Roblox games. It supports multiple games within Roblox and provides easy access to cheat codes and hacks.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Winnablez/Winnable/main/Loader"))()
+end)
+
+Main_:CreateButton("Velocity.cc: 4+ Games", "None", "The Script Hub for Roblox games is an excellent tool for Roblox players. It contains various cheat functions and other features that can enhance your gameplay experience.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/BigHacker123/loader/main/.lua"))()
+end)
+
+Main_:CreateButton("The Survival Game: Esp, Name Esp, Chams", "None", "The ESP script for a game like Roblox enhances player experience by providing increased visibility of in-game elements, including players, items, and other valuable information. This script is designed to provide a tactical advantage to players, giving them a clear understanding of their surroundings and allowing them to make more informed decisions in the game. Whether you're playing solo or with friends, the ESP script provides a seamless and immersive gaming experience that is sure to improve your performance.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://www.itots.tk/zaphub/ZapHubFreeVersion"))()
+end)
