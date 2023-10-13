@@ -15,7 +15,6 @@ Main_:CreateButton("infinite yield", "None", "admin commands", "", "", "", funct
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 end)
 
-
 Main_:CreateButton("reviz admin v2", "None", "admin commands but, v2.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/reviz."))()
 end)
@@ -115,4 +114,20 @@ end)
 
 Main_:CreateButton("Blade Ball: Auto Parry, Inf Freeze & More", "None", "In this script a lot of different functions. There are Best Auto Parry, Ruin game and Players Attach.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Eblan19/875578/main/dolbaeb9867"))()
+end)
+
+Main_:CreateButton("STRONGEST PUNCH SIMULATOR", "None", "This feature will automatically collect reward balls instantly and you will receive additional experience and rewards", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ExtremeAntonis/loader/main/loader.lua"))()
+end)
+
+Main_:CreateButton("Fruit Battlegrounds", "None", "The AimBot function is a highly sought-after script for Roblox players looking to take their game to the next level. This powerful tool automatically locks onto enemies and aims your weapon, making it easier to get headshots and eliminate your opponents with precision.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/XorV2/script/main/FruitBattlegrounds"))()
+end)
+
+Main_:CreateButton("obby but you're a bird", "None", "This feature enables users to visualize the location of all players or opponents on the map, even when obstructed by walls or other obstacles. It provides an edge in gameplay by allowing users to have a greater understanding of the game's dynamics.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://github.com/KhSaeed90/Roblox/raw/workspace/11308951249"))()
+end)
+
+Main_:CreateButton("Teamwork Puzzles 2", "None", "Ascend to new levels of mastery with the combined prowess of Automation, Auto Rebirth, and Teleport, propelling you towards achievements beyond imagination.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/v8NA36F4"))()
 end)
