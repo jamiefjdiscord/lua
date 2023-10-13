@@ -143,3 +143,7 @@ end)
 Main_:CreateButton("The Survival Game: Esp, Name Esp, Chams", "None", "The ESP script for a game like Roblox enhances player experience by providing increased visibility of in-game elements, including players, items, and other valuable information. This script is designed to provide a tactical advantage to players, giving them a clear understanding of their surroundings and allowing them to make more informed decisions in the game. Whether you're playing solo or with friends, the ESP script provides a seamless and immersive gaming experience that is sure to improve your performance.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://www.itots.tk/zaphub/ZapHubFreeVersion"))()
 end)
+
+Main_:CreateButton("Blox Fruits: Teleports, Auto Raid, Auto Stats", "None", "Teleports is a script that allows players to move from one location to another within a game, quickly and easily. This feature is useful for players who want to explore different areas of the game world, complete quests that require travel, or simply move around the game map with ease.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader"))()
+end)
