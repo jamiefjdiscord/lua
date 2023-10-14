@@ -155,3 +155,7 @@ end)
 Main_:CreateButton("Kaiju Paradise: No Jump Cooldown, Inf Jumps, Auto Escape", "None", "The No Jump Cooldown function is a script that allows players to jump continuously without any cooldown time", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/RealZzHub/MainV2/main/Main.lua"))()
 end)
+
+Main_:CreateButton("Slap battles.", "None", "Slap aura, Anti stop time and so much more", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/dizyhvh/slap_battles_gui/main/0.lua"))()
+end)
