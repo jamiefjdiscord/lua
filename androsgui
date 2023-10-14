@@ -151,3 +151,7 @@ end)
 Main_:CreateButton("Every Second You Get +1 Jump Power", "None", "This particular feature has the capability to secure victories in races or games without any manual intervention.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md"))()
 end)
+
+Main_:CreateButton("Kaiju Paradise: No Jump Cooldown, Inf Jumps, Auto Escape", "None", "The No Jump Cooldown function is a script that allows players to jump continuously without any cooldown time", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/RealZzHub/MainV2/main/Main.lua"))()
+end)
