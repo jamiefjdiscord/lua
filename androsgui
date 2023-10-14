@@ -147,3 +147,7 @@ end)
 Main_:CreateButton("Blox Fruits: Teleports, Auto Raid, Auto Stats", "None", "Teleports is a script that allows players to move from one location to another within a game, quickly and easily. This feature is useful for players who want to explore different areas of the game world, complete quests that require travel, or simply move around the game map with ease.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader"))()
 end)
+
+Main_:CreateButton("Every Second You Get +1 Jump Power", "None", "This particular feature has the capability to secure victories in races or games without any manual intervention.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md"))()
+end)
