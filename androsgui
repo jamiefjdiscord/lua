@@ -159,3 +159,11 @@ end)
 Main_:CreateButton("Slap battles.", "None", "Slap aura, Anti stop time and so much more", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/dizyhvh/slap_battles_gui/main/0.lua"))()
 end)
+
+Main_:CreateButton("BetterBypasser", "None", "BetterBypasser includes Anonymity, anti-cheat bypasses, a large dictionary and cross-platform compatabillity to deliver you a smooth experience of bypassing.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/dizyhvh/slap_battles_gui/main/0.lua"))()
+end)
+
+Main_:CreateButton("Break In 2", "None", "The Kill-Aura script is a powerful tool that allows players to gain an edge in Roblox games. With this script, players can easily defeat opponents with a single hit, making gameplay much easier", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/danielontopp/scripts/main/77_OCM25E2M.lua.txt"))()
+end)
