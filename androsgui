@@ -167,3 +167,7 @@ end)
 Main_:CreateButton("Break In 2", "None", "The Kill-Aura script is a powerful tool that allows players to gain an edge in Roblox games. With this script, players can easily defeat opponents with a single hit, making gameplay much easier", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/danielontopp/scripts/main/77_OCM25E2M.lua.txt"))()
 end)
+
+Main_:CreateButton("Universal Float Part", "None", "This script will spawn a part under your character. So you can fly around the map. Script is made by ChatGPT", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/float"))()
+end)
