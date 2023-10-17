@@ -168,6 +168,10 @@ Main_:CreateButton("Break In 2", "None", "The Kill-Aura script is a powerful too
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/danielontopp/scripts/main/77_OCM25E2M.lua.txt"))()
 end)
 
-Main_:CreateButton("Universal Float Part", "None", "This script will spawn a part under your character. So you can fly around the map. Script is made by ChatGPT", "", "", "", function()
+Main_:CreateButton("Universal Float Part", "None", "This script will spawn a part under your character. So you can fly around the map. Script is made by ChatGPT", "jamiefj", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jamiefjdiscord/lua/main/float"))()
+end)
+
+Main_:CreateButton("Every Second You Get 1 Jump Power", "None", "Proven and reliable, this script excels at handling farming, rebirthing, and egg opening, ensuring a seamless gaming experience", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md"))()
 end)
