@@ -175,3 +175,7 @@ end)
 Main_:CreateButton("Every Second You Get 1 Jump Power", "None", "Proven and reliable, this script excels at handling farming, rebirthing, and egg opening, ensuring a seamless gaming experience", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md"))()
 end)
+
+Main_:CreateButton("Blox Fruits: Auto Farm", "None", "Rely on this extensively tested script for seamless gameplay and trust it to deliver its functions flawlessly.", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Minhtriettt/Free-Script/main/MTriet-Hub.lua"))()
+end)
