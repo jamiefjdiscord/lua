@@ -179,3 +179,7 @@ end)
 Main_:CreateButton("Blox Fruits: Auto Farm", "None", "Rely on this extensively tested script for seamless gameplay and trust it to deliver its functions flawlessly.", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Minhtriettt/Free-Script/main/MTriet-Hub.lua"))()
 end)
+
+Main_:CreateButton("Speed Run 4", "None", "Dominate the Speed Run 4 game effortlessly using this script, offering 'Auto Farm,' 'Auto Win,' and 'Get Cloud.'", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/JustAP1ayer/PlayerHubOther/main/PlayerHubLoader.lua"))()
+end)
