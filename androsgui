@@ -187,3 +187,7 @@ end)
 Main_:CreateButton("Zombie Attack", "None", "Experience a game-changing script for NAME, delivering outstanding performance that sets it apart.'", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md"))()
 end)
+
+Main_:CreateButton("Murder Mystery 2", "None", "Simplify your Murder Mystery 2 game journey with this script, ensuring swift progress through Murder kill, Sheriff elimination, and Teleportation.'", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/TheHanki/Hawk/main/Loader"))()
+end)
