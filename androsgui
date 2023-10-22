@@ -183,3 +183,7 @@ end)
 Main_:CreateButton("Speed Run 4", "None", "Dominate the Speed Run 4 game effortlessly using this script, offering 'Auto Farm,' 'Auto Win,' and 'Get Cloud.'", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/JustAP1ayer/PlayerHubOther/main/PlayerHubLoader.lua"))()
 end)
+
+Main_:CreateButton("Zombie Attack", "None", "Experience a game-changing script for NAME, delivering outstanding performance that sets it apart.'", "", "", "", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md"))()
+end)
